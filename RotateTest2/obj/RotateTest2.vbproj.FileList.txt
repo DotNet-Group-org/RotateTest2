@@ -1,0 +1,10 @@
+bin\Debug\RotateTest2.exe
+bin\Debug\RotateTest2.pdb
+bin\Debug\RotateTest2.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RotateTest2.RotateTest2.resources
+obj\Debug\RotateTest2.Resources.resources
+obj\Debug\RotateTest2.vbproj.GenerateResource.Cache
+obj\Debug\RotateTest2.exe
+obj\Debug\RotateTest2.xml
+obj\Debug\RotateTest2.pdb
